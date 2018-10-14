@@ -35,16 +35,15 @@ En este proyecto pondrás en práctica habilidades de: copywriting, diseño de i
 
 ###  Entregables
 
-* Un árbol del flujo de decisión del chatbot (como ejemplo del pdf)
-Una propuesta de lenguaje: formal/informal 
-* Tener una matriz de priorización (como ejemplo del pdf)
-Que las estudiantes utilicen cualquier metodología y puedan sustentar por qué las utilizaron para este reto en particular (Design Sprints, Agile Inception Deck, Design Thinking, Lean UX, Agile, etc).
-* Diseño visual dependiendo de cualquier caso de ayuda
+* Un árbol del flujo de decisión del chatbot ([ejemplo](https://www.researchgate.net/figure/Diagrama-de-flujo-de-ELIZA-Aunque-puede-darse-el-caso-cuando-la-frase-coincide-solo_fig11_291410724))
+* Una propuesta de lenguaje: formal/informal 
+* Una matriz de priorización
+* Documentación en la que describan qué metodología seleccionaron para abordar este reto y por qué (Design Sprints, Agile Inception Deck, Design Thinking, Lean UX, Agile, etc).
 * Prototipo del chatbot (puedes utilizar [botsociety](https://botsociety.io/))
 
 ### Hacker Edition
 
-* Medir cómo reaccionan los usuarios al chatbot con reconocimiento facial.
+* Medir cómo reaccionan los usuarios al chatbot usando reconocimiento facial.
 * Programa tu propio chatbot con herramientas como [IBM Watson](https://www.ibm.com/watson/). 
 
 ## Niveles esperados UX y SS
