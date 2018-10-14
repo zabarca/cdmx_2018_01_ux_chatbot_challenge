@@ -63,6 +63,7 @@ Que las estudiantes utilicen cualquier metodología y puedan sustentar por qué 
 |Prototyping mindset| 5 |
 |Business mindset| 5 |
 |Visual Design| 4 |
+|UX Copywriting| 2 |
 
 ### Soft skills
 
