@@ -35,47 +35,9 @@ En este proyecto pondrás en práctica habilidades de: copywriting, diseño de i
 
 ###  Entregables
 
-* Un árbol del flujo de decisión del chatbot ([ejemplo](https://www.researchgate.net/figure/Diagrama-de-flujo-de-ELIZA-Aunque-puede-darse-el-caso-cuando-la-frase-coincide-solo_fig11_291410724))
+* Un árbol del flujo de decisión del chatbot 
 * Una propuesta de lenguaje: formal/informal 
 * Una matriz de priorización
-* Documentación en la que describan qué metodología seleccionaron para abordar este reto y por qué (Design Sprints, Agile Inception Deck, Design Thinking, Lean UX, Agile, etc).
-* Prototipo del chatbot (puedes utilizar [botsociety](https://botsociety.io/))
-
-### Hacker Edition
-
-* Medir cómo reaccionan los usuarios al chatbot usando reconocimiento facial.
-* Programa tu propio chatbot con herramientas como [IBM Watson](https://www.ibm.com/watson/). 
-
-## Niveles esperados UX y SS
-
-### UX Design
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 5 |
-|Planificación| 4 |
-|Entrevistas y testing| 3 |
-|Observación| 4 |
-|Síntesis de resultados| 4 |
-|Flujos de usuario| 4 |
-|Arquitectura de la información| 4 |
-|Prototyping mindset| 5 |
-|Business mindset| 5 |
-|Visual Design| 4 |
-|UX Copywriting| 2 |
-
-### Soft skills
-
-Para este proyecto esperamos que alcances, por lo menos, el nivel 4 en todas tus habilidades blandas.
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de Problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo (trabajo colaborativo y responsabilidad)| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+* Documentación de la metodología seleccionada para abordar este reto y por qué (Design Sprints, Agile Inception Deck, Design Thinking, Lean UX, Agile, etc).
+* Prototipo del chatbot 
 
